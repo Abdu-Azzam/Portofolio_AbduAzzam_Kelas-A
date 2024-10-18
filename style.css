@@ -1,0 +1,32 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #ccd3ca;
+}
+
+.column {
+  padding: 2rem 1rem;
+}
+
+.container1 {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+.card {
+  margin: auto;
+}
+
+.link-blue {
+  color: blue; /* Warna tautan */
+  text-decoration: none; /* Menghilangkan garis bawah */
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background: #333;
+  color: #fff;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
